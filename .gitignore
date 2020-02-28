@@ -1,3 +1,4 @@
 target/
 .idea/
 AutoProject.iml
+.DS_Store
